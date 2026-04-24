@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanisshqbhardwwaj&color=random&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanisshqbhardwwaj&color=any&style=flat" alt="profile views" />
 </p>
