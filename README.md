@@ -1,4 +1,4 @@
-                                                              # Hi there, I'm Tanishq! 👋
+                                                                Hi there, I'm Tanishq! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, building projects, and collaborating with the developer community.
 
