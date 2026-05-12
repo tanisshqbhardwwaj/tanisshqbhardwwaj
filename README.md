@@ -24,7 +24,7 @@ Right now I'm focused on getting better at system design and cloud stuff (AWS/GC
 
 **Find me**
 
-[LinkedIn](https://www.linkedin.com/in/tanisshqbhardwwaj/)· tanishqbhardwaj03@gmail.com
+[`LinkedIn`](https://www.linkedin.com/in/tanisshqbhardwwaj/) · [`Gmail`](tanishqbhardwaj03@gmail.com)
 
 ---
 
