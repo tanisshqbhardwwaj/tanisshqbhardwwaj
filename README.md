@@ -1,38 +1,31 @@
 <div align="center">
   
-# Hi there, I'm Tanishq! 👋
+## Hey, I'm Tanishq 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, building projects, and collaborating with the developer community.
+I'm a software developer from India who enjoys building things for the web. I like writing clean code, working on side projects, and occasionally diving into open source when something catches my interest.
 
-</div>
-
-## 🚀 About Me
-- 💻 Software Developer & Problem Solver
-- 🌱 Always learning and exploring new technologies
-- 🎯 Focused on creating impactful projects
-- 📚 Enthusiast of open-source contributions
-
-## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Java, TypeScript
-- **Frontend**: HTML, CSS, React
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code, Docker
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanisshqbhardwwaj&show_icons=true&theme=radical)
-
-## 🔗 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 🐦 Twitter: [Your Twitter](#)
-- 📧 Email: [your.email@example.com](#)
-
-## 🎓 Learning Goals
-- Deep dive into system design
-- Master cloud technologies (AWS/GCP)
-- Contribute more to open-source projects
-- Build scalable applications
+Right now I'm focused on getting better at system design and cloud stuff (AWS/GCP). Still figuring out a lot of things, but that's kind of the point.
 
 ---
 
-⭐ Feel free to explore my repositories and don't hesitate to reach out!
+**Things I work with**
+
+`JavaScript` `TypeScript` `Python` `Java` `React` `Node.js` `Express` `MongoDB` `MySQL` `Docker` `Git`
+
+---
+
+**What I'm learning**
+
+- System design — reading a lot, building small things to test concepts
+- Cloud (AWS/GCP) — slowly working through certifications and docs
+- Contributing more to open source — picking up good first issues
+
+---
+
+**Find me**
+
+[[LinkedIn](https://www.linkedin.com/in/tanisshqbhardwwaj/)](#) · tanishqbhardwaj03@gmail.com
+
+---
+
+Feel free to browse the repos. If something looks interesting, reach out.
