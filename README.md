@@ -18,7 +18,7 @@ Right now I'm focused on getting better at system design and cloud stuff (AWS/GC
 
 - System design — reading a lot, building small things to test concepts
 - Cloud (AWS/GCP) — slowly working through certifications and docs
-- Contributing more to open source — picking up good first issues
+
 
 ---
 
